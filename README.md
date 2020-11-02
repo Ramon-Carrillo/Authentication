@@ -1,7 +1,7 @@
 # Authentication
 
 
-![screenshot](./img/screenshots.png)
+![screenshot](./screenshots.png)
 
 ## Built With
 
